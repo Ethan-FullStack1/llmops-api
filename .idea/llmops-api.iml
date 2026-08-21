@@ -5,8 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/llmops-api/env/Lib/site-packages" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/llmops-api/env" />
+      <excludeFolder url="file://$MODULE_DIR$/env" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10 (llmops-api) (2)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="E:\workspace\llmops-api\llmops-api\env" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">

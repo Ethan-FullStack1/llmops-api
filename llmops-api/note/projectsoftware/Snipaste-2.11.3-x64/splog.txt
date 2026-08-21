@@ -1,0 +1,67 @@
+[2026-08-21 14:41:10.451] [I] ***************************************************************
+[2026-08-21 14:41:10.451] [I] Snipaste 2.11.3 for Windows Desktop (x64) (Qt 6.2.4)
+[2026-08-21 14:41:10.451] [I] OS: Windows 10 Version 2009 [10.0.19045]
+[2026-08-21 14:41:10.451] [I] Cores: 12
+[2026-08-21 14:41:10.451] [I] Elevated: true
+[2026-08-21 14:41:10.451] [I] Log level: 2
+[2026-08-21 14:41:10.451] [I] Application dir: C:/Users/Administrator/Downloads/Snipaste_2.11.3_Green_64Bit/Snipaste-2.11.3-x64
+[2026-08-21 14:41:10.451] [I] Working dir: C:/Users/Administrator/Downloads/Snipaste_2.11.3_Green_64Bit/Snipaste-2.11.3-x64
+[2026-08-21 14:41:10.451] [I] Config: C:/Users/Administrator/Downloads/Snipaste_2.11.3_Green_64Bit/Snipaste-2.11.3-x64/config.ini
+[2026-08-21 14:41:10.451] [I] Library paths: (C:/Users/Administrator/Downloads/Snipaste_2.11.3_Green_64Bit/Snipaste-2.11.3-x64)
+[2026-08-21 14:41:10.451] [I] Screen scale: 1
+[2026-08-21 14:41:10.451] [I] Retina factor: 1
+[2026-08-21 14:41:10.451] [I] Screens: 1
+[2026-08-21 14:41:10.451] [I]     QRect(0, 0, 2560 x 1440), NAME = "\\.\DISPLAY1", DPI = 96 , DPR = 1
+[2026-08-21 14:41:10.457] [I] Desktops: 1
+[2026-08-21 14:41:10.582] [I] Support HDR color correction: true
+[2026-08-21 14:41:10.582] [I] Compatability layer: 
+[2026-08-21 14:41:10.582] [I] About to import settings from: C:/Users/Administrator/Downloads/Snipaste_2.11.3_Green_64Bit/Snipaste-2.11.3-x64/config.ini
+[2026-08-21 14:41:10.584] [I] Settings imported
+[2026-08-21 14:41:10.584] [I] Breakpad initialized
+[2026-08-21 14:41:10.891] [I] OpenGL acceleration: true
+[2026-08-21 14:41:10.914] [I] Process priority: 1
+[2026-08-21 14:41:10.914] [I] Initializing Snipaste...
+[2026-08-21 14:41:11.138] [I] Prefetch...
+[2026-08-21 14:41:11.147] [I] Preloaded 28 files: 6 ms
+[2026-08-21 14:41:11.182] [I] Load default ssl configuration: 41 ms
+[2026-08-21 14:41:11.187] [I] About to apply settings...
+[2026-08-21 14:41:11.192] [I] Settings applied
+[2026-08-21 14:41:11.197] [I] Log level set to: 2
+[2026-08-21 14:41:11.213] [I] History dir: C:/Users/Administrator/Downloads/Snipaste_2.11.3_Green_64Bit/Snipaste-2.11.3-x64/history
+[2026-08-21 14:41:11.214] [W] Failed to open history file "C:/Users/Administrator/Downloads/Snipaste_2.11.3_Green_64Bit/Snipaste-2.11.3-x64/history/.sp0" for reading
+[2026-08-21 14:41:11.214] [I] Add group
+[2026-08-21 14:41:11.216] [I] Request to switch to group 0
+[2026-08-21 14:41:11.225] [I] About to restore pasters...
+[2026-08-21 14:41:11.225] [I] Group 0 [I49JRD]: "Default"
+[2026-08-21 14:41:11.225] [I] Record version: 201
+[2026-08-21 14:41:11.225] [I] To restore: 0
+[2026-08-21 14:41:11.225] [I] Pasters touched
+[2026-08-21 14:41:11.225] [I] All pasters activated: true
+[2026-08-21 14:41:11.226] [I] Snipper: hide
+[2026-08-21 14:41:11.227] [I] Unref images: 0 (0 removed)
+[2026-08-21 14:41:11.227] [I] Unref dirs: 0 (0 removed)
+[2026-08-21 14:41:11.227] [I] Empty history info files: 0 (0 removed)
+[2026-08-21 14:41:11.227] [I] Pasters restored
+[2026-08-21 14:41:11.227] [I] Launch time: 778 ms
+[2026-08-21 14:41:14.034] [I] Parsing command arguments [1]: (sp, snip)
+[2026-08-21 14:41:14.034] [I] Snip request: 0 (dest: 0)
+[2026-08-21 14:41:14.034] [I] Snipper: preparing...
+[2026-08-21 14:41:14.034] [I] Desktop: QRect(0, 0, 2560 x 1440)
+[2026-08-21 14:41:14.069] [I] Background size: QSize(2560, 1440)
+[2026-08-21 14:41:14.069] [I] Screens: 1
+[2026-08-21 14:41:14.069] [I]     QRect(0, 0, 2560 x 1440), NAME = "\\.\DISPLAY1", DPI = 96 , DPR = 1
+[2026-08-21 14:41:14.078] [I] Focus set
+[2026-08-21 14:41:14.078] [I] Snipper: preparation done (0)
+[2026-08-21 14:41:14.079] [I] Snipper: about to appear...
+[2026-08-21 14:41:14.079] [I] Snipper: hide
+[2026-08-21 14:41:14.079] [I] Snipper: prepare to show...
+[2026-08-21 14:41:14.080] [I] Snipper: shown
+[2026-08-21 14:41:14.080] [I] Snipper: focus in
+[2026-08-21 14:41:14.080] [I] Snipper: ready [45 ms]
+[2026-08-21 14:41:15.395] [I] Screenshot (2302, 1400, 24 x 40) destination: none
+[2026-08-21 14:41:15.395] [I] Snipper: about to quit...
+[2026-08-21 14:41:15.397] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2026-08-21 14:41:15.401] [I] Snipper: hide
+[2026-08-21 14:41:15.401] [I] Snipper: hidden
+[2026-08-21 14:41:15.402] [I] Snipper: quit
+[2026-08-21 14:41:16.378] [I] Parsing command arguments [1]: (sp, show-tray-menu)
